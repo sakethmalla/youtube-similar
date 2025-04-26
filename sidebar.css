@@ -1,0 +1,44 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    position:fixed;
+    bottom:0;
+    left:0;
+    top: 70px;
+    width: 140px;
+    background-color:white;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+.home{
+    height: 60px;
+    margin-bottom: 30px;
+}
+.explore{
+    height: 60px; 
+    margin-bottom: 30px;
+}
+.youtube-music{
+    height: 60px;
+    margin-bottom: 30px;
+}
+.subscriptions{
+    height: 60px;
+    margin-bottom: 30px;
+}
+.originals{
+    height: 60px;
+    margin-bottom: 30px;
+}
+.library{
+    height: 60px;
+    margin-bottom: 30px;
+}
